@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">ArtSpace</string>
+
+    <string name="authur_john_title">Authur Morgan And John Martson</string>
+    <string name="authur_john_artist">Arthur Morgan</string>
+    <string name="authur_john_year">2020</string>
+
+    <string name="authur_cosplay_title">Authur Morgan Cosplay</string>
+    <string name="authur_cosplay_artist">Cosplay</string>
+    <string name="authur_cosplay_year">2021</string>
+
+    <string name="authur_gun_title">Authur Morgan With Gun</string>
+    <string name="authur_gun_artist">Guner</string>
+    <string name="authur_gun_year">2022</string>
+
+    <string name="john_martson_title">John Martson With Middle Finger</string>
+    <string name="john_martson_artist">Martson</string>
+    <string name="john_martson_year">2023</string>
 </resources>
